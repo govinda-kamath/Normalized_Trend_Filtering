@@ -6,6 +6,9 @@ Install required modules with:
 $ pip install -r requirements.txt
 ```
 
+# PAPER
+Associated paper can be found here: 
+
 # Data
 Paper and datasets used for empirical study:
 

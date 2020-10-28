@@ -6,7 +6,7 @@ Install required modules with:
 $ pip install -r requirements.txt
 ```
 
-# PAPER
+# Introduction
 Associated paper can be found here: 
 
 # Data

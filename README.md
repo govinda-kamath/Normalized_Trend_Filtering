@@ -23,7 +23,7 @@ Follow data download instructions from OpenPBTA (ver. release-v9-20191105)
 RNA-seq data is found in "pbta-gene-expression-kallisto.stranded.rds"  
 Response is found in "pbta-histologies.tsv"  
 
-* inBiomap Interactome: [DATA], [PAPER](https://www.nature.com/articles/nmeth.4083)
+* inBiomap Interactome: [DATA](https://inbio-discover.intomics.com/api/data/map_public/2016_09_12/inBio_Map_core_2016_09_12.tar.gz), [PAPER](https://www.nature.com/articles/nmeth.4083)
 
 
 # Notebooks

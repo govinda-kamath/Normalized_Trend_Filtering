@@ -14,8 +14,8 @@ Paper and datasets used for empirical study:
 
 * Harel_PD1: [DATA](https://www.cell.com/cms/10.1016/j.cell.2019.08.012/attachment/1ccc78b2-37c7-44f0-a829-cbd81455ea9b/mmc1.xlsx), [PAPER](https://www.cell.com/cell/fulltext/S0092-8674(19)30900-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867419309006%3Fshowall%3Dtrue)
 * Harel_TIL: [DATA](https://www.cell.com/cms/10.1016/j.cell.2019.08.012/attachment/1ccc78b2-37c7-44f0-a829-cbd81455ea9b/mmc1.xlsx), [PAPER](https://www.cell.com/cell/fulltext/S0092-8674(19)30900-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867419309006%3Fshowall%3Dtrue)
-* VanAllen: [RNA-seq DATA] (https://static-content.springer.com/esm/art%3A10.1038%2Fs41591-019-0654-5/MediaObjects/41591_2019_654_MOESM3_ESM.txt), [RESPONSE] (https://static-content.springer.com/esm/art%3A10.1038%2Fs41591-019-0654-5/MediaObjects/41591_2019_654_MOESM4_ESM.xlsx), [PAPER](https://www.nature.com/articles/s41591-019-0654-5)
-* OpenPBTA: [DATA]* (https://github.com/AlexsLemonade/OpenPBTA-analysis#how-to-obtain-openpbta-data), [PAPER](https://alexslemonade.github.io/OpenPBTA-manuscript/) \n
+* VanAllen: [RNA-seq DATA](https://static-content.springer.com/esm/art%3A10.1038%2Fs41591-019-0654-5/MediaObjects/41591_2019_654_MOESM3_ESM.txt), [RESPONSE](https://static-content.springer.com/esm/art%3A10.1038%2Fs41591-019-0654-5/MediaObjects/41591_2019_654_MOESM4_ESM.xlsx), [PAPER](https://www.nature.com/articles/s41591-019-0654-5)
+* OpenPBTA: [DATA](https://github.com/AlexsLemonade/OpenPBTA-analysis#how-to-obtain-openpbta-data), [PAPER](https://alexslemonade.github.io/OpenPBTA-manuscript/)  
 Follow data download instructions from OpenPBTA, "pbta-gene-expression-kallisto.stranded.rds" was used for experiments. 
 * inBiomap Interactome: [DATA], [PAPER](https://www.nature.com/articles/nmeth.4083)
 

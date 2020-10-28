@@ -19,7 +19,7 @@ Paper and datasets used for empirical study:
 * VanAllen: [RNA-seq DATA](https://static-content.springer.com/esm/art%3A10.1038%2Fs41591-019-0654-5/MediaObjects/41591_2019_654_MOESM3_ESM.txt), [RESPONSE](https://static-content.springer.com/esm/art%3A10.1038%2Fs41591-019-0654-5/MediaObjects/41591_2019_654_MOESM4_ESM.xlsx), [PAPER](https://www.nature.com/articles/s41591-019-0654-5)  
 
 * OpenPBTA: [DATA](https://github.com/AlexsLemonade/OpenPBTA-analysis#how-to-obtain-openpbta-data), [PAPER](https://alexslemonade.github.io/OpenPBTA-manuscript/)  
-Follow data download instructions from OpenPBTA (ver. release-v9-20191105)
+Follow data download instructions from OpenPBTA (ver. release-v9-20191105)  
 RNA-seq data is found in "pbta-gene-expression-kallisto.stranded.rds"  
 Response is found in "pbta-histologies.tsv"  
 

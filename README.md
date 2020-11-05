@@ -2,8 +2,11 @@
 
 # Requirements
 Install required modules with:
-```bash
-$ pip install -r requirements.txt
+```
+bash
+conda create -n NTF
+conda activate NTF
+pip install -r requirements.txt
 ```
 
 # Introduction

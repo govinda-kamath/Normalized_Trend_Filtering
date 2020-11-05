@@ -1,4 +1,4 @@
-# Normalized Trend Filtering for Biomedical Datasets (UNDER CONSTRUCTION)
+# Normalized Trend Filtering for Biomedical Datasets
 
 # Requirements
 Install required modules with:

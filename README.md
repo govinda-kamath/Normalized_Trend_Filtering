@@ -4,7 +4,7 @@
 Install required modules with:
 ```
 bash
-conda create -n NTF
+conda create -n NTF python=3.7
 conda activate NTF
 pip install -r requirements.txt
 ```

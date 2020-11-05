@@ -3,7 +3,6 @@ pandas==1.0.1
 scikit-learn==0.22.1
 scipy==1.4.1
 tqdm==4.36.1
-mkl-random==1.1.1
 pycasso==0.1.2.2
 cvxpy==1.0.25
 more-itertools==8.2.0
